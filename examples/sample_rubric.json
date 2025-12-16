@@ -1,0 +1,61 @@
+{
+  "title": "Python Programming Assignment",
+  "criteria": [
+    {
+      "name": "Code Functionality",
+      "description": "Program runs without errors and produces correct output",
+      "max_points": 35,
+      "levels": {
+        "Excellent": 35,
+        "Good": 28,
+        "Fair": 21,
+        "Poor": 14,
+        "Incomplete": 0
+      }
+    },
+    {
+      "name": "Code Quality & Style",
+      "description": "Code follows PEP 8 style guidelines and best practices",
+      "max_points": 20,
+      "levels": {
+        "Exemplary": 20,
+        "Proficient": 16,
+        "Developing": 12,
+        "Beginning": 8
+      }
+    },
+    {
+      "name": "Documentation",
+      "description": "Docstrings, comments, and type hints are comprehensive",
+      "max_points": 15,
+      "levels": {
+        "Complete": 15,
+        "Adequate": 11,
+        "Minimal": 7,
+        "Missing": 0
+      }
+    },
+    {
+      "name": "Testing & Error Handling",
+      "description": "Edge cases handled and proper error management",
+      "max_points": 15,
+      "levels": {
+        "Robust": 15,
+        "Good": 11,
+        "Basic": 7,
+        "None": 0
+      }
+    },
+    {
+      "name": "Algorithm Efficiency",
+      "description": "Efficient algorithms and appropriate data structures",
+      "max_points": 15,
+      "levels": {
+        "Optimal": 15,
+        "Good": 11,
+        "Acceptable": 8,
+        "Inefficient": 4
+      }
+    }
+  ]
+}
